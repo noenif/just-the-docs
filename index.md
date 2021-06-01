@@ -2,7 +2,7 @@
 layout: default
 title: 首 页
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "这是张晨光的文档中心"
 permalink: /
 ---
 
